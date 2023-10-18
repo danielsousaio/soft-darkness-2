@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.4.0",
+    "cookiecutter_context": {
+      "project_name": "Soft Darkness",
+      "project_slug": "soft_darkness_2",
+      "project_dash_slug": "soft-darkness-2",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "vivekk@test.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
